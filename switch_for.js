@@ -256,3 +256,6 @@ let s = "FLAVIO"
 for(let lettera of s) {
     console.log(lettera);
 }
+
+
+console.log("FIne lezione!");
